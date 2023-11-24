@@ -21,8 +21,8 @@ The assessment of Magist involves a comprehensive evaluation based on the follow
 3) Customer Satisfaction: Evaluating customer satisfaction levels associated with Magist's services.
 
 ## Project output
-Discovered: 5-Minute Presentation is [here] https://github.com/Iredcg/Exploring-market-expansion-opportunities-for-a-Spanish-company-in-Brazil/blob/main/Project1_DataScience.pdf
-SQL code is found [here] https://github.com/Iredcg/Exploring-market-expansion-opportunities-for-a-Spanish-company-in-Brazil/tree/main/src
+Discovered: 5-Minute Presentation is [here](https://github.com/Iredcg/Exploring-market-expansion-opportunities-for-a-Spanish-company-in-Brazil/blob/main/Project1_DataScience.pdf)
+SQL code is found [here](https://github.com/Iredcg/Exploring-market-expansion-opportunities-for-a-Spanish-company-in-Brazil/tree/main/src)
 
 ## SQL File Contents
 Database Exploration:In-depth examination of the database structure, schema, and contents.
